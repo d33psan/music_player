@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resnew">
+        <file>Resources/icons8-adjust-100.png</file>
+        <file>Resources/icons8-circled-play-100.png</file>
+        <file>Resources/icons8-file-100.png</file>
+        <file>Resources/icons8-no-audio-100.png</file>
+        <file>Resources/icons8-stop-100.png</file>
+        <file>Resources/icons8-pause-button-100.png</file>
+        <file>Resources/icons8-audio-100.png</file>
+        <file>Resources/icons8-next-page-100.png</file>
+        <file>Resources/icons8-previous-page-100.png</file>
+        <file>Resources/icons8-forward-10-100.png</file>
+        <file>Resources/icons8-replay-10-100.png</file>
+    </qresource>
+</RCC>
